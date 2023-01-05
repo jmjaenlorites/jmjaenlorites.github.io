@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+#title: projects # If there is no title, the page will not be included in the navigation bar
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
